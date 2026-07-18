@@ -1,0 +1,58 @@
+:root{
+--body-bg-cr:#f5fffa;
+
+    
+/* -----header--color----- */
+
+--h1-h2-cr:#3c4349;
+--nav-link-cr:#646970;
+--nav-npt-bg-cr:#f0f0f1;
+--nav-npt-f-cr:#bcbcc0;
+--nav-icon-cr:var(--nav-link-cr);
+--nav-icon-num-bg-cr:#632d2e;
+--nav-icon-num-f-cr:#ffffff;
+--icon-hover-cr:#d87093;
+
+/* --------mini --nav--color------- */
+
+--mini-nav-cr:#787c82;
+--mini-nav-act-cr:var(--nav-link-cr);
+
+/* -------form--color---- */
+
+--form-lab-cr:var(--nav-link-cr);
+--form-npt-bg-cr:var(--nav-npt-bg-cr);
+
+/* -------cart---color--------- */
+
+--cat-txt-cr:var(--nav-link-cr);
+--cat-boda-btm-cr:var(--mini-nav-cr);
+--cat-btn-bg-two:#b32d2e;
+
+/* --------footer--color----- */
+
+--ft-bg-cr:#000000;
+--ft-link-cr:#dcdcde;
+--ft-npt-boda:var(--ft-link-cr);
+/* ---------copyright------- */
+--copyright-cr:#c3c4c7;
+
+/* -------font--sizes------- */
+
+--h1-fsz:2.2rem;
+--h2-fsz:1.7rem;
+--nav-link-fsz:1.21rem;
+--nav-input-fsz:0.9rem;
+--input-icon-fsz:1rem;
+--nav-icon-num-fsz:4px;
+--mini-nav-fsz:0.6rem;
+--form-lab-fsz:1rem;
+--form-check-txtfsz:0.5rem;
+--cat-txtfsz:1rem;
+--cat-btn-fsz:var(--cat-txtfsz);
+--ft-ex-fsz:0.9rem;
+--ft-a-fsz:var(--form-lab);
+--input-pls-fsz:0.9rem;
+--nav-icon-fsz:1.3rem;
+--form-npt-fsz:1.2rem;
+}
